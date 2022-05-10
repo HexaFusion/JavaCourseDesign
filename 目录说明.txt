@@ -1,5 +1,0 @@
-.\src目录为源代码目录使用UTF8编码，导入eclipse中可能出现中文乱码
-.\out\production\ChatBot目录为项目通过编译后的目录，可使用cmd命令：java -classpath 项目路径 gui.ChatGui启动系统
-".\out\artifacts\ChatBot_jar\ChatBot.jar"  文件为打包后的jar文件，可使用cmd命令："java -jar 文件路径名启动项目" 也可运行项目根目录下运行"启动项目.bat"直接启动项目
-程序可直接导入到idea中运行
-.\Jar存放本程序使用到的所有外部jar包。
