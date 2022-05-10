@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Text/一到四章/E.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Text/一到四章/F.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Text/一到四章/Father.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Text/一到四章/Sort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Text/一到四章/W.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/aichat/ChatBot.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/aichat/TencentChatBot.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/aichat/TuLBot.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/control/Control.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/http/HttpClient.java" charset="GBK" />
+  </component>
+</project>
